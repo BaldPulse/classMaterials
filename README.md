@@ -35,7 +35,7 @@ TODO: List which libraries / add-ons you added to the project, and the purpose e
 ### Installation Steps
 
 TODO: Describe the installation process (making sure you give complete instructions to get your project going from scratch).
-Instructions need to be such that a user can just copy/paste the commands to get things set up and running. 
+Instructions need to be such that a user can just copy/paste the commands to get things set up and running. Note that with the use of GitHub Actions, these instructions can eventually be fully automated (e.g. with [act](https://github.com/nektos/act), you can run GitHub Actions locally). 
 
 
 ## Functionality
@@ -52,7 +52,7 @@ Provide steps to reproduce the problem and/or name a file or a function where th
 
 ## Contributing
 
-TODO: Leave the steps below if you want others to contribute to your project.
+TODO: Leave the steps below if you want others outside your team to contribute to your project.
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
